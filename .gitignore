@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+process.ipynb
+__pycache__
+bucket
+raws
+scripts
+NewsResult_climate_processed.csv
+.vscode

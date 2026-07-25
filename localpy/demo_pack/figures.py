@@ -1,0 +1,2 @@
+HUNDRED: int = 100
+THOUSAND: int = 1_000
